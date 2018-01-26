@@ -1,0 +1,195 @@
+/*CSS reset settings here*/
+*{
+   margin:0px;
+   padding:0px;
+   font-family:sans-serif;
+}
+
+h2{
+   font-size:20pt;
+   color:white;
+   font-weight:normal;
+   margin-left:10px;
+}
+h3{
+   margin-bottom:5px;
+   color:rgb(38,102,156);
+}
+h4{
+   font-size: 12pt;
+}
+
+li{
+   margin:5px 10px 5px 40px;
+}
+
+#header{
+   width:1000px;
+   background-color: white;
+   padding-top: 5px;
+}
+.title{
+   margin-top: 25px;
+   font-size: 32pt;
+   font-weight: normal;
+}
+
+.blue{
+   color:rgb(38,102,156);
+}
+.red{
+   color:rgb(215,38,38);
+}
+
+.logo{
+   width:80px;
+   float:left;
+
+}
+#body_header{
+   width:1000px;
+   height:40px;
+   background:linear-gradient(rgb(42,104,158),rgb(100,130,181),rgb(42,104,158));
+   padding-top: 7px;
+
+
+}
+
+#main_body{
+   background:linear-gradient(rgb(227,227,227), rgb(255,255,255), rgb(255,255,255),rgb(255,255,255),rgb(255,255,255));
+   width:1000px;
+   
+}
+#sidebar{
+   display: inline-block;
+   
+}
+#learn{
+   width:180px;
+   font-size: 10pt;
+   margin-left: 0px;
+   font-weight:bold;
+
+}
+.button{
+   margin-top: 20px;
+   display:block;
+   width:180px;
+   padding:10px 5px;
+   border-radius: 3px;
+   margin-bottom:4px;
+   border:2px;
+   box-shadow: 2px 1px 3px grey;
+   background:linear-gradient(rgb(100,153,193),rgb(39,103,157));
+      color:white;
+}
+.button2{
+   display:block;
+   width:180px;
+   border-radius: 3px;
+   border:2px;
+   padding:10px 5px;
+   box-shadow: 2px 1px 3px grey;
+   background: linear-gradient(rgb(234,171,92),rgb(238,115,1));
+      color:white;
+      margin-bottom:25px;
+}
+.button3{
+   width:150px;
+   border-radius: 5px;
+   background-color: skyblue;
+   margin-top:10px;
+   border:2px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   color:white;
+   box-shadow: 2px 1px 3px black;
+
+}
+.bar
+{
+   height:1px;
+   background-color :grey;
+   margin:10px 2px;
+}
+#advertisement{
+   background-image: url("images/ad_background.png");
+   width:160px;
+   margin:25px 0px;
+   height:240px;
+   color:white;
+   text-align: center;
+   padding:10px;
+   padding-top: 25px;
+   box-shadow: 2px 1px 3px black;
+   font-size: 14pt;
+}
+.ninja{
+   width: 80px;
+   margin-top: 10px;
+}
+.highlight{
+   color:rgb(2,151,173);
+}
+#main_content{
+   width:785px;
+   display:inline-block;
+   vertical-align: top;
+   margin-left:30px;
+   font-size: 12pt;   
+}
+#clientserverimage{
+   width:200px;
+   margin:15px 0px 15px 302px;
+}
+#dns{
+   display:inline-block;
+   color:rgb(38,102,156);
+   vertical-align: top;
+   margin-top:5px;
+   
+}
+.home_icon{
+   width:20px;
+
+}
+.phone_icon
+{
+   width:35px;
+   margin-top:5px;
+   margin-left: 540px;
+   margin-right: 10px;
+   display:inline-block;
+}
+#contact{
+   display: inline-block;
+   font-size: 6pt;
+   text-align: center;
+}
+.call_no
+{
+   font-size: 16pt;
+   color:rgb(0,192,221);
+}
+#bottom_bar{
+   padding:15px;   
+   border:5px solid rgb(0,135,221);
+   border-bottom:0px;
+   margin-top: 10px;
+   margin-left: 10px;
+   box-shadow: 2px 1px 3px grey;
+}
+
+.html_picture{
+   height:100px;
+   display:inline-block;
+
+}
+#bottom_content{
+   display: inline-block;
+   width:600px;
+}
+
+.fudgery{
+   margin-bottom:5px;
+}
